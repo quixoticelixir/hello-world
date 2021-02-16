@@ -1,2 +1,5 @@
 # hello-world
-The new place for ideas, resources etc.
+
+Hi everyone!
+
+Quix here, I'm making my first steps in Git.
